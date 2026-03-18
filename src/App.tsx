@@ -32,8 +32,8 @@ export default function App() {
     score: 0,
   });
 
-  const [eventInfo, setEventInfo] = useState("FIRST Tech Challenge DECOI");
-  const [matchInfo, setMatchInfo] = useState("Qualification 1 of 39");
+  const [eventInfo, setEventInfo] = useState("FANROC 2026");
+  const [matchInfo, setMatchInfo] = useState("Trận 1");
   const [videoSrc, setVideoSrc] = useState<string>("/countdown.mp4");
   const [showControls, setShowControls] = useState(true);
   const videoRef = useRef<HTMLVideoElement>(null);
