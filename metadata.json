@@ -1,0 +1,5 @@
+{
+  "name": "Robotics Competition Countdown Display",
+  "description": "A professional fullscreen countdown and scoreboard display for robotics competitions.",
+  "requestFramePermissions": []
+}
